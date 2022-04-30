@@ -1,0 +1,11 @@
+C:\Users\MA\source\repos\insoftpro_Projesi\insoftpro_Projesi\obj\Debug\insoftpro_Projesi.csprojAssemblyReference.cache
+C:\Users\MA\source\repos\insoftpro_Projesi\insoftpro_Projesi\obj\Debug\insoftpro_Projesi.Form1.resources
+C:\Users\MA\source\repos\insoftpro_Projesi\insoftpro_Projesi\obj\Debug\insoftpro_Projesi.Properties.Resources.resources
+C:\Users\MA\source\repos\insoftpro_Projesi\insoftpro_Projesi\obj\Debug\insoftpro_Projesi.csproj.GenerateResource.cache
+C:\Users\MA\source\repos\insoftpro_Projesi\insoftpro_Projesi\bin\Debug\insoftpro_Projesi.exe.config
+C:\Users\MA\source\repos\insoftpro_Projesi\insoftpro_Projesi\bin\Debug\insoftpro_Projesi.exe
+C:\Users\MA\source\repos\insoftpro_Projesi\insoftpro_Projesi\bin\Debug\insoftpro_Projesi.pdb
+C:\Users\MA\source\repos\insoftpro_Projesi\insoftpro_Projesi\obj\Debug\insoftpro_Projesi.exe
+C:\Users\MA\source\repos\insoftpro_Projesi\insoftpro_Projesi\obj\Debug\insoftpro_Projesi.pdb
+C:\Users\MA\source\repos\insoftpro_Projesi\insoftpro_Projesi\obj\Debug\insoftpro_Projesi.Abone_Tanımlama.resources
+C:\Users\MA\source\repos\insoftpro_Projesi\insoftpro_Projesi\obj\Debug\insoftpro_Projesi.endeks_hesaplama.resources
